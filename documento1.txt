@@ -1,3 +1,5 @@
 parcial numero 3
  
-nombres: Frank, camilo y fredy
+nombres: Frank, camilo y Fredy
+
+edades: 12, 12 y 12
